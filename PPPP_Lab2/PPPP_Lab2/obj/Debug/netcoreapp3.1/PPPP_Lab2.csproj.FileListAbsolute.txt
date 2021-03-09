@@ -1,0 +1,13 @@
+C:\Users\Senjor\source\repos\PPPP_Lab2\PPPP_Lab2\bin\Debug\netcoreapp3.1\PPPP_Lab2.exe
+C:\Users\Senjor\source\repos\PPPP_Lab2\PPPP_Lab2\bin\Debug\netcoreapp3.1\PPPP_Lab2.deps.json
+C:\Users\Senjor\source\repos\PPPP_Lab2\PPPP_Lab2\bin\Debug\netcoreapp3.1\PPPP_Lab2.runtimeconfig.json
+C:\Users\Senjor\source\repos\PPPP_Lab2\PPPP_Lab2\bin\Debug\netcoreapp3.1\PPPP_Lab2.runtimeconfig.dev.json
+C:\Users\Senjor\source\repos\PPPP_Lab2\PPPP_Lab2\bin\Debug\netcoreapp3.1\PPPP_Lab2.dll
+C:\Users\Senjor\source\repos\PPPP_Lab2\PPPP_Lab2\bin\Debug\netcoreapp3.1\PPPP_Lab2.pdb
+C:\Users\Senjor\source\repos\PPPP_Lab2\PPPP_Lab2\obj\Debug\netcoreapp3.1\PPPP_Lab2.AssemblyInfoInputs.cache
+C:\Users\Senjor\source\repos\PPPP_Lab2\PPPP_Lab2\obj\Debug\netcoreapp3.1\PPPP_Lab2.AssemblyInfo.cs
+C:\Users\Senjor\source\repos\PPPP_Lab2\PPPP_Lab2\obj\Debug\netcoreapp3.1\PPPP_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Senjor\source\repos\PPPP_Lab2\PPPP_Lab2\obj\Debug\netcoreapp3.1\PPPP_Lab2.dll
+C:\Users\Senjor\source\repos\PPPP_Lab2\PPPP_Lab2\obj\Debug\netcoreapp3.1\PPPP_Lab2.pdb
+C:\Users\Senjor\source\repos\PPPP_Lab2\PPPP_Lab2\obj\Debug\netcoreapp3.1\PPPP_Lab2.genruntimeconfig.cache
+C:\Users\Senjor\source\repos\PPPP_Lab2\PPPP_Lab2\obj\Debug\netcoreapp3.1\PPPP_Lab2.csprojAssemblyReference.cache
